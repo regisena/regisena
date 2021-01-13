@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **regisena/regisena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
 
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 </p>
 
 ### - I'm currently...
+
+<h1 align="center">Hi, <dev/> My name is Reginaldo Sena and I'm experienced (+10 years) fullstack developer living in Brazil <img src="https://github.com/regisena/regisena/blob/main/Hi.gif" width="30px"></h1>
 
 - Improving my React Native skills.
 - Learning to develop Mobile-first web-apps.
