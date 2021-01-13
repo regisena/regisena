@@ -4,9 +4,9 @@
 
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/reginaldo-sena)
-
+<p align="center">
 ![Regi Sena's github stats](https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical)  
-
+</p>
 
 <!--
 <p align="center">
