@@ -1,9 +1,12 @@
-### Hi there 👋:smiley:.
+### Olá 👋:smiley:.
 
 Meu nome é Reginaldo Sena e possuo (+10 years) desenvolvimento fullstack, moro no Brasil e estudo novas tecnologias. Atualmente meu trabalho como frontend usando o framework Angular +.
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisena&layout=compact&langs_count=7&theme=radical"/>
+<div>
+  <a href="https://github.com/regisena">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisena&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 Tecnologias:
 
