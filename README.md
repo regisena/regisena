@@ -3,9 +3,11 @@
 My name is Reginaldo Sena and I´m experienced (+10 years) fullstack developer living in Brazil and I'm studing new technologies.
 
 ![Regi Sena's github stats](https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical) 🖥️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regisena&theme=blue-green)](https://github.com/regisena/github-readme-stats)
+[![Regi Sena's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=regisena)](https://github.com/regisena/github-readme-stats)
+
 
 Tecnologias:
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -14,4 +16,5 @@ Tecnologias:
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Redes Sociais:
+
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
