@@ -4,6 +4,9 @@ My name is Reginaldo Sena and I´m experienced (+10 years) fullstack developer l
 
 ![Regi Sena's github stats](https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+
 Tecnologias:
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
