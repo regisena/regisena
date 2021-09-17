@@ -3,7 +3,6 @@
 My name is Reginaldo Sena and I´m experienced (+10 years) fullstack developer living in Brazil and I'm studing new technologies.
 
 ![Regi Sena's github stats](https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical)
-[![Regi Sena's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=regisena)](https://github.com/regisena/github-readme-stats)
 
 Tecnologias:
 
