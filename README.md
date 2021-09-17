@@ -1,6 +1,6 @@
 ### Olá 👋:smiley:.
 
-Meu nome é Reginaldo Sena e possuo +10 anos em desenvolvimento fullstack, moro no Brasil e estudo novas tecnologias. Atualmente trabalho como frontend usando o framework Angular +.
+Meu nome é Reginaldo Sena e possuo mais de 10 anos em desenvolvimento fullstack, moro no Brasil e estudo novas tecnologias. Atualmente trabalho como frontend usando o framework Angular 2+.
 
 <div>
   <a href="https://github.com/regisena">
