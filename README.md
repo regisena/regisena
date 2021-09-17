@@ -1,4 +1,4 @@
-### Hi there 👋.
+### Hi there 👋:smiley:.
 
 My name is Reginaldo Sena and I´m experienced (+10 years) fullstack developer living in Brazil and I'm studing new technologies.
 
