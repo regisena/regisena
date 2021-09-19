@@ -10,7 +10,8 @@ Meu nome é Reginaldo e possuo mais de 10 anos de experiência em desenvolviment
                                                      
 "/>
     
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=regisena)](https://github.com/anuraghazra/github-readme-stats)
+   [![reginaldo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=regisena)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </div>
