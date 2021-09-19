@@ -6,14 +6,6 @@ Meu nome é Reginaldo e possuo mais de 10 anos de experiência em desenvolviment
   <a href="https://github.com/regisena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisena&layout=compact&langs_count=7&theme=radical"/>
-  <img style="margin-left=350px" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact(https://github.com/anuraghazra/github-readme-stats)/>
-                                                     
-"/>
-    
-   [![reginaldo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=regisena)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 </div>
 <br>
 Atuei nas seguintes Tecnologias:
