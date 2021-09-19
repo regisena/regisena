@@ -4,6 +4,7 @@ Meu nome é Reginaldo Sena e possuo mais de 10 anos em desenvolvimento fullstack
 
 <div>
   <a href="https://github.com/regisena">
+    ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisena&layout=compact&langs_count=7&theme=radical"/>
 </div>
