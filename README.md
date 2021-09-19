@@ -7,8 +7,8 @@ Meu nome é Reginaldo e possuo mais de 10 anos de experiência em desenvolviment
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisena&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-<div><p>Atuei nas seguintes Tecnologias:</p></div>
+<br>
+Atuei nas seguintes Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="regi-js" height="30" width="90" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="regi-js" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
