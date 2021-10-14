@@ -1,6 +1,6 @@
 ### Olá 👋:smiley:.
 
-Meu nome é Reginaldo e possuo mais de 10 anos de experiência em desenvolvimento fullstack, moro no Brasil e estudo novas tecnologias. Atualmente trabalho como frontend usando o framework Angular 2+.
+Meu nome é Reginaldo e possuo mais de 10 anos de experiência em desenvolvimento fullstack, moro no Brasil e estudo novas tecnologias. Atualmente trabalho com Vue no frontend e Node no backend.
 
 <div>
   <a href="https://github.com/regisena">
