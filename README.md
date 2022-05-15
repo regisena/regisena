@@ -16,6 +16,7 @@ Atuei nas seguintes Tecnologias:
   <img align="center" alt="regi-js" height="30" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="regi-js" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="regi-js" height="30" width="90" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="regi-js" height="30" width="90" src="https://img.shields.io/static/v1?label=Framework&message=Springboot&color=green&style=for-the-badge&logo=Ghost">
 </div>
 <br>
 Minhas Redes Sociais:
