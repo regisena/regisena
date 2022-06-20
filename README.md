@@ -4,8 +4,8 @@ Meu nome é Reginaldo e possuo mais de 10 anos de experiência em desenvolviment
 
 <div>
   <a href="https://github.com/regisena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisena&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=regisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisena&layout=compact&langs_count=8&theme=radical"/>
 </div>
 <br>
 Atuei nas seguintes Tecnologias:
