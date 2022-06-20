@@ -1,6 +1,6 @@
 ### Olá 👋:smiley:.
 
-Meu nome é Reginaldo e possuo mais de 10 anos de experiência em desenvolvimento fullstack, moro no Brasil e estudo novas tecnologias. Atualmente estudando com ReactJs no frontend e Node no backend.
+Meu nome é Reginaldo e possuo mais de 10 anos de experiência em desenvolvimento fullstack, moro no Brasil e estudo novas tecnologias. Atualmente estudando ReactJs no frontend e Node no backend.
 
 <div>
   <a href="https://github.com/regisena">
